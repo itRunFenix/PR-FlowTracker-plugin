@@ -21,7 +21,7 @@ For more details and to install the plugin, visit the [JetBrains Marketplace](ht
 
 - Once the plugin is installed, please follow our [Prerequisites.md](https://github.com/itRunFenix/PR-FlowTracker-plugin/blob/master/Prerequisites.md) for a step-by-step list of requirements to prepare your environment. 
 - After completing the setup, follow our [Quick Start guide](https://github.com/itRunFenix/PR-FlowTracker-plugin/blob/master/QuickStart.md) for a step-by-step guide with screenshots to get up and running quickly. 
-- You can then start generating dashboards for your Pull Requests by configuring the plugin settings to specify the author or assignee for whom you want to view the open pull requests.
+- You can then start efficiently manage your Pull Requests to keep track of their status, ensuring you stay updated on all changes and actions needed.
 
 If you encounter any issues or need assistance, please refer to the [Troubleshooting.md](https://github.com/itRunFenix/PR-FlowTracker-plugin/blob/master/Troubleshooting.md) or open an issue on the [GitHub repository](https://github.com/itRunFenix/PR-FlowTracker-plugin/issues).
 
