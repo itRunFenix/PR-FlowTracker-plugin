@@ -8,7 +8,7 @@ This document will help you troubleshoot common issues when using PR-FlowTracker
 
 1. [Plugin doesn't install correctly](#plugin-doesnt-install-correctly)
 2. [Errors when fetching PR details](#errors-when-fetching-pr-details)
-3. [PR data doesn't load automatically](#pr-data-doesnt-load-automatically)
+3. [PR data doesn't open directly on GitHub](#pr-data-doesnt-open-directly-on-github)
 4. [Repository configuration issues](#repository-configuration-issues)
 5. [Pull Requests not displaying](#pull-requests-not-displaying)
 6. [Reporting issues](#reporting-issues)
