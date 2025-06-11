@@ -1,0 +1,26 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="128" viewBox="0 0 360 128">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="purple" />
+    </linearGradient>
+  </defs>
+
+  <!-- Powiększona ikona, lekko przesunięta w dół i w prawo -->
+  <g stroke="url(#grad1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="scale(2) translate(-2,2)">
+    <path d="M20 10 L10 20 L20 30" />
+    <path d="M44 10 L54 20 L44 30" />
+    <path d="M32 20 C50 5, 50 35, 32 20" />
+    <path d="M32 20 C14 5, 14 35, 32 20" />
+    <circle cx="32" cy="42" r="6" stroke="url(#grad1)" fill="url(#grad1)" />
+  </g>
+
+  <!-- Tekst z prawej -->
+  <style>
+    .text-large { font-family: 'Segoe UI', sans-serif; font-weight: bold; font-size: 48px; fill: url(#grad1); }
+    .text-normal { font-family: 'Segoe UI', sans-serif; font-weight: bold; font-size: 36px; fill: url(#grad1); }
+  </style>
+  <text x="130" y="50" class="text-large">PR →</text>
+  <text x="130" y="100" class="text-normal">FlowTracker</text>
+</svg>
